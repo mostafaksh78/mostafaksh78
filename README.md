@@ -1,6 +1,12 @@
 ###
 My name is Mostafa Keshavarz, I graduated in electrical engineering majoring in electronics (digital systems) from Shiraz University in 2022. After graduating from Shiraz University, I became a member of the Aras team at KNTU University and started doing research on machine vision and image-based artificial intelligence. I was also CO-Founder and head of the mobile software development department in Fidar Company.
 My Skills and interests is machine vision, image processing, IOT, software development based on desktop and Android and development of embedded systems.
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
+
 <!--
 **mostafaksh78/mostafaksh78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
